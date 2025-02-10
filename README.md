@@ -16,7 +16,7 @@ The E-Commerce Website is a fully responsive website designed to provide a moder
 -  **Git & GitHub** – Version control and code management
 
 ## 🌐 Live Demo
-Check out the live website: **E-Commerce Website**
+Check out the live website:  [E-Commerce Site](https://eduford-for-you.netlify.app/)
 
 ## 📌 How to Use
 1.  Open the website link in any modern browser.
@@ -25,7 +25,7 @@ Check out the live website: **E-Commerce Website**
 4.  Contact customer support for inquiries.
 
 ## 🎬 Demo
- **E-Commerce.mp4**
+
 
 ## 📄 License
 This project is for educational and portfolio purposes.
