@@ -25,6 +25,7 @@ Check out the live website:  [E-Commerce Site](https://eduford-for-you.netlify.a
 4.  Contact customer support for inquiries.
 
 ## 🎬 Demo
+https://github.com/user-attachments/assets/920c5efb-37a8-409c-866d-319eb8eca316
 
 
 ## 📄 License
