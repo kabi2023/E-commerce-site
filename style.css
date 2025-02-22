@@ -242,6 +242,10 @@ ul {
     margin-top: 40px;
     margin-bottom: 40px;
 }
+.copy a {
+    color: var(--gold-yellow);
+    text-decoration: none;
+}
 
 .row h3{
     font-size: 18px;
